@@ -17,7 +17,6 @@ body {
 }
 
 .container {
-  /* background: lightblue; */
   width: 40%;
   display: flex;
   justify-content: center;
@@ -42,7 +41,6 @@ body {
   width: 100%;
   display: flex;
   justify-content: center;
-  /* margin: 50px 0 80px; */
 }
 
 .circle {
